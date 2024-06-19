@@ -2,8 +2,6 @@
 Step through this.
 
 Try to inspect how the arguments to the sum function evolve
-
-This is a TOUGH concept, so come at it slowly!
 """
 
 def sum(list):
