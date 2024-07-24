@@ -44,7 +44,7 @@ def string_list_please() -> list:
 def dictionary_please() -> dict:
     """Returns a dictionary, anything you like."""
     return {
-        'name': 'Shuwen ChengS',
+        'name': 'Shuwen Cheng',
         'age': 18,
         'occupation': 'None',
         'city': 'Jiangsu'
